@@ -1,1 +1,2 @@
-print("HUGUGGG")
+while 1==1:
+  print("QWERTY")
